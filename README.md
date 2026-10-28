@@ -4,7 +4,7 @@
 
 Soy un apasionado por la tecnología, el desarrollo web y la creación de soluciones digitales. Actualmente estoy fortaleciendo mis habilidades en programación, explorando nuevas tecnologías y trabajando en proyectos que me permiten transformar ideas en experiencias funcionales.
 
-- 🌍 Estoy radicado en Colombia.
+- 🌍 Vivo en Colombia.
 - ✉️ Puedes contactarme en: **andres2764279@gmail.com**
 - 🧠 Actualmente estoy aprendiendo y fortaleciendo mis conocimientos en desarrollo web y software.
 
